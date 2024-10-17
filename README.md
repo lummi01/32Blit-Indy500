@@ -1,6 +1,6 @@
 # Indy500
 
-Classic racing game. The source were taken (more or less) from mikerr´s Car Sprint Game.
+Classic racing game. The source were taken (more or less) from Mike Redrobe´s Car Sprint Game (mikerr, https://github.com/mikerr/32blit-games/tree/master/carsprint ).
 
 ![](/assets/indy500.bmp)
 
