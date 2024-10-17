@@ -1,0 +1,5 @@
+assets.hpp:
+  assets/track.png:
+    name: trackimg
+  assets/cars.png:
+    name: carimg
