@@ -2,7 +2,7 @@
 
 Classic racing game. The source were taken (more or less) from mikerr´s Car Sprint Game.
 
-//![](/assets/indy500.bmp)
+![](/assets/indy500.bmp)
 
 For local build:
 ```
